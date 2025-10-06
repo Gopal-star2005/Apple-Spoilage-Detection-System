@@ -1,0 +1,1 @@
+It is a Fruit Spopilage Detection System that uses different olfactory sensors values such as DHT 11, MQ Series Sensors values and uses 7 different ML models such as Logistic Regression, Linear Regression, Random Forest Classifier, Decision Tree Classifier, Support Vector Macine, K-Nearest Neighbours and Ada Boost Classifier to classify that the fruit is spoiled or not.
